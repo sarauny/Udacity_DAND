@@ -1,4 +1,4 @@
 # Udacity_DAND
 
-## This is my codebase i collected from UdaCity DATA SCIENCE course.
+## This is my codebase I collected from Udacity Data Analyst Nanodegree course.
 
