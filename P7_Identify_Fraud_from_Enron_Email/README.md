@@ -1,0 +1,2 @@
+The goal of this project was to use machine learning techniques, particularly by implementing the sklearn libary to create a supervised classifier. Financial and e-mail data of the Enron case was used for traning. The poi_id.py file includes the data cleaning, exploration, and the final classifier. The ipython notebook "Identify_Fraud_From_Enron_Email_document
+" includes the full documentation.
